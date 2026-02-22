@@ -2,13 +2,12 @@
 <!--        🎨 PARTH PATIL — GitHub Profile    -->
 <!-- ========================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=50&section=header&text=Parth%20Patil&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer%20%C2%B7%20IT%20Student&descSize=16&descColor=a78bfa&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=70&section=header&text=Parth%20Patil&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%C2%B7%20IT%20Student&descSize=16&descColor=a78bfa&descAlignY=68" width="100%" />
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Preempt;1px+off%3F+I+noticed.;Git+commit+-m+%22fixed+everything%22)](https://git.io/typing-svg)
 
-<br/>
 </div>
 
 ---
