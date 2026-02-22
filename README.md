@@ -2,7 +2,7 @@
 <!--        🎨 PARTH PATIL — GitHub Profile    -->
 <!-- ========================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a2e&height=180&section=header&text=Parth%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=15&descColor=a78bfa&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=Parth%20Patil&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
 
 <div align="center">
   
@@ -15,10 +15,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth0014)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Parth0014&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
 
 </div>
 
