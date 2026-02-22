@@ -122,13 +122,13 @@ An AI-powered churn prevention platform that **monitors customer health signals*
 </td>
 <td width="45%" valign="top">
 
-**🧩 Norixis** — Automated data transformation engine converting unstructured data into AI-ready formats.
----
-**🅿️ NextSpot** — Smart parking management with YOLO-based real-time grid & occupancy detection.
----
-**🔍 Dexter** — Search engine built with Python scraping & PHP.
----
-**🔐 EncStore** — Cloud storage platform with encrypted Vault.
+### **🧩 Norixis** — Automated data transformation engine converting unstructured data into AI-ready formats.
+
+### **🅿️ NextSpot** — Smart parking management with YOLO-based real-time grid & occupancy detection.
+
+### **🔍 Dexter** — Search engine built with Python scraping & PHP.
+
+### **🔐 EncStore** — Cloud storage platform with encrypted Vault.
 
 </td>
 </tr>
