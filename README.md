@@ -1,35 +1,26 @@
-<!-- ========================= HEADER ========================= -->
+```markdown
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a2e&height=280&section=header&text=Parth%20Patil&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS%20Student%20%20%C2%B7%20%20Web%20Dev%20%20%C2%B7%20%20AI%20Builder&descSize=17&descColor=888888&descAlignY=65" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Parth Patil</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🧠 Problem Solver
-</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=a78bfa&center=true&vCenter=true&width=500&lines=Currently+building+an+AI+Email+Assistant+%F0%9F%9A%80;React+%2F+Angular+%2F+Flask+%2F+Node.js;Turning+caffeine+into+clean+code+%E2%98%95" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://github.com/Parth0014?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Parth0014)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=Parth0014&style=flat-square&color=a78bfa&label=profile+views)
 
-<!-- ========================= TYPING EFFECT ========================= -->
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Email+Assistant+Builder;Gemini+API+Integrator;Always+Learning+New+Tech" />
-</p>
+<br/>
 
----
+### About Me
 
-<!-- ========================= ABOUT SECTION ========================= -->
-
-## 👨‍💻 About Me
-
-<pre><code class="language-js">const parth = {
+```js
+const parth = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   backend: ["Node.js", "Flask"],
@@ -38,92 +29,146 @@
   ai: ["Google Gemini API"],
   mobile: ["Android (Java + Material 3)"],
   currentProject: "AI Email Assistant",
-  focus: "Building scalable AI-powered applications"
-};</code></pre>
+  focus: "Building scalable AI-powered applications",
+  education: "B.Sc. Computer Science",
+  currently: "open to internships & collaborations"
+};
+```
 
 ---
 
-<!-- ========================= CORE STACK ========================= -->
+### Tech Stack
 
-## 🛠 Core Stack
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <br/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/> 
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <br/> 
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI-blue?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Material%203-6200EE?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> 
-</p>
+**Languages**
 
----
+`https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white`
+`https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white`
+`https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black`
+`https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white`
 
-<!-- ========================= GITHUB STATS ========================= -->
+    </td>
+    <td valign="top" width="33%">
 
-## 📊 GitHub Stats
+**Frontend**
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth0014&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0014&layout=compact&theme=tokyonight&hide_border=true" height="160"/> 
-</p>
+`https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black`
+`https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white`
+`https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white`
+`https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white`
 
----
+    </td>
+    <td valign="top" width="33%">
 
-## 🔥 Contribution Streak
+**Backend & DB**
 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=Parth0014&theme=tokyonight&hide_border=true"/> 
-</p>
+`https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white`
+`https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white`
+`https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+### Featured Project
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="55%">
 
-### 🤖 AI Email Assistant  
-Smart AI-powered email generator using Google Gemini API  
-**Stack:** React + Node + MySQL + Gmail SMTP  
-🔗 https://github.com/Parth0014/ai-email-assistant  
+#### AI Email Assistant
+*Currently in active development*
 
-### 📱 Android To-Do App  
-Task manager app using Java + Material 3  
-🔗 https://github.com/Parth0014/android-todo-app  
+An LLM-powered email assistant that connects to your inbox, **reads & summarizes** long threads, **categorizes** messages by priority, and **drafts context-aware replies** — all through a clean web UI.
 
-### 🌐 Full Stack Web Applications  
-Modern web apps using React (Vite) + Express + MySQL  
-🔗 https://github.com/Parth0014  
+**Stack →** Python; Flask; React; TypeScript; Node.js; MySQL
 
----
+Repo [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FParth0014%2Fai-email-assistant")
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+  </td>
+  <td width="45%" align="center">
 
-## 🎯 Currently Working On
+```
+┌──────────────────────────┐
+│  📥 Inbox Loaded         │
+│  ──────────────────────  │
+│  ✅ Thread summarized    │
+│  🏷  Labeled: urgent     │
+│  ✍️  Draft ready         │
+│                          │
+│  > send_reply()          │
+└──────────────────────────┘
+```
 
-- 🚀 Converting Flask backend to Node.js for Vercel deployment  
-- 🤖 Advanced Gemini AI email refinement  
-- 🏗 Scalable backend architecture  
-- 📱 Improving Android UI with Material 3  
-
----
-
-<!-- ========================= VISITOR COUNTER ========================= -->
-
-## 👀 Profile Views
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Parth0014&color=blue&style=for-the-badge"/> 
-</p>
+  </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ========================= FOOTER ========================= -->
+### GitHub Stats
 
-<p align="center"> ⭐ If you like my work, consider giving a star to my repositories! </p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Parth0014&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0014&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cccccc&langs_count=6" height="165"/>
+
+<br/><br/>
+
+GitHub Streak [(git.io in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgit.io%2Fstreak-stats")
+
+</div>
+
+---
+
+### Contribution Graph
+
+<div align="center">
+
+Activity Graph [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fashutosh00710%2Fgithub-readme-activity-graph")
+
+</div>
+
+---
+
+### GitHub Trophies
+
+<div align="center">
+
+Trophies [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy")
+
+</div>
+
+---
+
+### Currently Working On
+
+- Converting Flask backend to Node.js for Vercel deployment  
+- Advanced Gemini AI email refinement  
+- Scalable backend architecture  
+- Improving Android UI with Material 3
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth0014/Parth0014/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth0014/Parth0014/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Parth0014/Parth0014/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+*Thanks for stopping by — if something here resonates, let's connect 👋*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%" />
+```
