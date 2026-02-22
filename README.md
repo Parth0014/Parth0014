@@ -2,17 +2,17 @@
 <!--        🎨 PARTH PATIL — GitHub Profile    -->
 <!-- ========================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=50&section=header&text=Parth%20Patil&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer%20%C2%B7%20CS%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=50&section=header&text=Parth%20Patil&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer%20%C2%B7%20IT%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Preempt;%F0%9F%92%BB+React+%7C+Express+%7C+Node+%7C+Flask+%7C+Dart;%F0%9F%A7%A0+Figuring+AI;Turning+my+vision+into+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Preempt;%F0%9F%92%BB+React+%7C+Express+%7C+Node+%7C+Flask+%7C+Dart+%7C+Angular;%F0%9F%A7%A0+Figuring+AI;Turning+my+vision+into+code)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-patil-50862b330)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilpaarth11@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth0014)
 
@@ -26,15 +26,14 @@
 const parth = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
-  education: "B.Sc. Computer Science",
+  education: "B.Tech. Information Technology",
   code: {
-    frontend: ["React (Vite)", "Angular", "HTML5", "CSS3"],
-    backend: ["Node.js", "Flask"],
-    database: ["MySQL"],
-    mobile: ["Android (Java + Material 3)"],
-    ai: ["Google Gemini API"],
+    frontend: ["React (Vite)", "Flutter (Dart)"],
+    backend: ["Express", "Flask"],
+    database: ["MySQL", "MongoDB"],
+    mobile: ["Android (Java + Material 3)", "Flutter"],
   },
-  currentProject: "AI Email Assistant 🤖",
+  currentProject: "Preempt 🕵️‍♂️",
   focus: "Building scalable AI-powered applications",
   status: "Open to internships & collaborations!",
 };
@@ -42,11 +41,11 @@ const parth = {
 
 <br/>
 
-- 🔭 Currently building an **AI Email Assistant** — an LLM-powered email tool with Gemini
-- 🌱 Learning **advanced AI integrations** & **scalable backend architecture**
-- 💬 Ask me about **React, Angular, Flask, Node.js, or Android dev**
-- 📫 Reach me at **[your-email@gmail.com](mailto:your-email@gmail.com)**
-- ⚡ Fun fact: I can spend hours optimizing code that runs in milliseconds
+- 🔭 Currently building **Vigil** — a SaaS Early Warning System powered by LLMs to predict churn before it happens
+- 🌱 Learning **predictive analytics**, **real-time event pipelines** & **scalable backend architecture**
+- 💬 Ask me about **React, Flask, Node.js, churn detection, or SaaS health monitoring**
+- 📫 Reach me at **[patilpaarth11@gmail.com](mailto:patilpaarth11@gmail.com)**
+- ⚡ Fun fact: I build systems to catch problems milliseconds before your customers notice them
 
 ---
 
@@ -64,9 +63,10 @@ const parth = {
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 </div>
 </td>
@@ -77,8 +77,10 @@ const parth = {
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 </td>
@@ -92,8 +94,10 @@ const parth = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 </td>
