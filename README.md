@@ -158,8 +158,6 @@ An LLM-powered email assistant that connects to your inbox, **reads & summarizes
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0014&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
 </div>
 
 ---
@@ -168,33 +166,17 @@ An LLM-powered email assistant that connects to your inbox, **reads & summarizes
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth0014&theme=github_dark" width="100%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parth0014&theme=github_dark" height="230" alt="Repos Per Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parth0014&theme=github_dark" height="230" alt="Most Commit Language"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parth0014&theme=github_dark" height="180" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parth0014&theme=github_dark" height="230" alt="Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parth0014&theme=github_dark" height="180" alt="Most Commit Language"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parth0014&theme=github_dark" height="180" alt="Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parth0014&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parth0014&theme=github_dark&utcOffset=5.5" height="230" alt="Productive Time"/>
 
 </div>
-
----
-
-## 🎯 Currently Working On
-
-| Status | Task                                                          |
-| :----: | ------------------------------------------------------------- |
-|   🔄   | Converting Flask backend to **Node.js** for Vercel deployment |
-|   🧠   | Advanced **Gemini AI** email refinement & prompt engineering  |
-|   📐   | Designing **scalable backend architecture**                   |
-|   📱   | Improving **Android UI** with Material 3 components           |
-|   🌐   | Building a **portfolio website**                              |
 
 ---
 
