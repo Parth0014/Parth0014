@@ -56,7 +56,6 @@ let parth = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-
 </div>
 </td>
 <td valign="top" width="33%">
@@ -103,11 +102,11 @@ let parth = {
 <tr>
 <td width="55%">
 
-### 🤖 AI Email Assistant
+### 🕵️‍♂️ Preempt — SaaS Early Warning System
 
 > _Currently in active development_
 
-An LLM-powered email assistant that connects to your inbox, **reads & summarizes** long threads, **categorizes** messages by priority, and **drafts context-aware replies** — all through a clean web UI.
+An AI-powered churn prevention platform that **monitors customer health signals**, **detects risk patterns** in real-time, and **alerts teams before churn happens** — built for SaaS businesses that can't afford to lose customers silently.
 
 **Tech Stack:**
 
@@ -116,29 +115,103 @@ An LLM-powered email assistant that connects to your inbox, **reads & summarizes
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <br/>
 
-<a href="https://github.com/Parth0014/ai-email-assistant">
+<a href="https://github.com/Parth0014/preempt">
   <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
 </a>
 
 </td>
 <td width="45%" align="center">
-
 ```
 ┌──────────────────────────────┐
-│  📥 Inbox Loaded             │
+│  📡 Monitoring: 3 accounts   │
 │  ────────────────────────    │
-│  ✅ Thread summarized        │
-│  🏷️  Labeled: urgent         │
-│  ✍️  Draft ready             │
-│  🤖 AI: Gemini Pro           │
+│  🔴 Risk Detected: Acme Co.  │
+│  📉 Usage drop: -42%         │
+│  ⚠️  Alert sent to team      │
+│  🤖 AI: Churn Score 87/100   │
 │                              │
-│  > send_reply()              │
+│  > preempt.intervene()       │
 └──────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Other Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Norixis
+
+> Automated data transformation engine
+
+Converts **unstructured data into AI-ready structured formats** — built for pipelines that feed ML models and LLM workflows.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<a href="https://github.com/Parth0014/norixis">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🅿️ NextSpot
+
+> Smart Parking Management System
+
+Uses a **YOLO model** for real-time grid and occupancy detection — ML-powered parking intelligence that knows where the free spots are.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+<a href="https://github.com/Parth0014/nextspot">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Dexter
+
+> Search Engine from Scratch
+
+A custom-built search engine with **PHP frontend** and **Python scraper** — crawls, indexes, and ranks pages without relying on any third-party search API.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<a href="https://github.com/Parth0014/dexter">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 EncStore
+
+> Cloud-Based Encrypted Storage
+
+A secure cloud storage platform where files are **encrypted before upload** — privacy-first architecture so even the server can't read your data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<a href="https://github.com/Parth0014/encstore">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
+</a>
 
 </td>
 </tr>
