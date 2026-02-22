@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a2e&height=280&section=header&text=Parth%20Patil&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS%20Student%20%20%C2%B7%20%20Web%20Dev%20%20%C2%B7%20%20AI%20Builder&descSize=17&descColor=888888&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a2e&height=280&section=header&text=Parth%20Patil&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS%20Student%20%20%C2%B7%20%20Web%20Dev%20%20%C2%B7%20%20AI%20Builder&descSize=17&descColor=888888&descAlignY=35" width="100%" />
 
 <div align="center">
 
