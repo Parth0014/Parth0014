@@ -9,12 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Preempt;%F0%9F%92%BB+React+%7C+Express+%7C+Node+%7C+Flask+%7C+Dart+%7C+Angular;%F0%9F%A7%A0+Figuring+AI;Turning+my+vision+into+code)](https://git.io/typing-svg)
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-patil-50862b330)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilpaarth11@gmail.com)
-&nbsp;
-
 </div>
 
 ---
@@ -22,7 +16,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
 ```js
-const parth = {
+let parth = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   education: "B.Tech. Information Technology",
@@ -40,7 +34,7 @@ const parth = {
 
 <br/>
 
-- 🔭 Currently building **Vigil** — a SaaS Early Warning System powered by LLMs to predict churn before it happens
+- 🔭 Currently building **Preempt** — a SaaS Early Warning System powered by LLMs to predict churn before it happens
 - 🌱 Learning **predictive analytics**, **real-time event pipelines** & **scalable backend architecture**
 - 💬 Ask me about **React, Flask, Node.js, churn detection, or SaaS health monitoring**
 - 📫 Reach me at **[patilpaarth11@gmail.com](mailto:patilpaarth11@gmail.com)**
@@ -222,11 +216,10 @@ If something here resonates, let's build something awesome together! 👋
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-patil-50862b330)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilpaarth11@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth0014)
 
 <br/><br/>
 
