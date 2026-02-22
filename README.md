@@ -2,11 +2,11 @@
 <!--        🎨 PARTH PATIL — GitHub Profile    -->
 <!-- ========================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=50&section=header&text=Parth%20Patil&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=50&section=header&text=Parth%20Patil&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer%20%C2%B7%20%C2%B7%20CS%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Preempt;%F0%9F%92%BB+React+%7C+Express+%7C+Node+%7C+Flask;%F0%9F%A7%A0+Figuring+AI;Turning+my+vision+into+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Preempt;%F0%9F%92%BB+React+%7C+Express+%7C+Node+%7C+Flask+%7C+Dart;%F0%9F%A7%A0+Figuring+AI;Turning+my+vision+into+code)](https://git.io/typing-svg)
 
 <br/>
 
