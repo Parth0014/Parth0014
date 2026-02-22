@@ -156,26 +156,6 @@ An LLM-powered email assistant that connects to your inbox, **reads & summarizes
 
 </div>
 
----
-
-## 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parth0014&theme=github_dark" height="230" alt="Repos Per Language"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parth0014&theme=github_dark" height="230" alt="Most Commit Language"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parth0014&theme=github_dark" height="230" alt="Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parth0014&theme=github_dark&utcOffset=5.5" height="230" alt="Productive Time"/>
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -198,8 +178,6 @@ If something here resonates, let's build something awesome together! 👋
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilpaarth11@gmail.com)
 &nbsp;
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" width="100%" />
 
