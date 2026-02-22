@@ -119,42 +119,16 @@ An AI-powered churn prevention platform that **monitors customer health signals*
 
 <br/>
 
-<a href="https://github.com/Parth0014/preempt">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
-</a>
-
 </td>
 <td width="45%" valign="top">
 
-**🧩 Norixis** — Automated data transformation engine converting unstructured data into AI-ready formats.
+## **🧩 Norixis** — Automated data transformation engine converting unstructured data into AI-ready formats.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;<a href="https://github.com/Parth0014/norixis"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
+## **🅿️ NextSpot** — Smart parking management with YOLO-based real-time grid & occupancy detection.
 
----
+## **🔍 Dexter** — Search engine built with Python scraping & PHP.
 
-**🅿️ NextSpot** — Smart parking management with YOLO-based real-time grid & occupancy detection.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;<a href="https://github.com/Parth0014/nextspot"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
-
----
-
-**🔍 Dexter** — Search engine built from scratch with Python scraping & PHP frontend.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-&nbsp;<a href="https://github.com/Parth0014/dexter"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
-
----
-
-**🔐 EncStore** — Cloud storage platform with client-side encryption before upload.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-&nbsp;<a href="https://github.com/Parth0014/encstore"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
+**🔐 EncStore** — Cloud storage platform with encrypted Vault.
 
 </td>
 </tr>
