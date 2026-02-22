@@ -2,7 +2,7 @@
 <!--        🎨 PARTH PATIL — GitHub Profile    -->
 <!-- ========================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a2e&height=300&section=header&text=Parth%20Patil&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=18&descColor=a78bfa&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a2e&height=180&section=header&text=Parth%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=15&descColor=a78bfa&descAlignY=65" width="100%" />
 
 <div align="center">
   
@@ -159,50 +159,13 @@ An LLM-powered email assistant that connects to your inbox, **reads & summarizes
 
 ## 📊 GitHub Stats
 
-<!--
-  💡 TIP: The public github-readme-stats instance can be slow/rate-limited.
-  For best reliability, self-deploy on Vercel:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy to Vercel → set PAT_1 env var to your GitHub Personal Access Token
-  3. Replace "github-readme-stats.vercel.app" below with your own Vercel URL
--->
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Parth0014&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0014&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cccccc&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Parth0014&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=cccccc&currStreakNum=cccccc&sideNums=cccccc&dates=888888" alt="GitHub Streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0014&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<!--
-  ⚠️ TROPHIES — The original ryo-ma/github-profile-trophy repo was ARCHIVED in 2024.
-  The public Vercel instance is unreliable and often returns broken images.
-
-  TO FIX THIS PERMANENTLY:
-  1. Fork https://github.com/ryo-ma/github-profile-trophy (or a maintained fork)
-  2. Deploy to YOUR OWN Vercel account (free tier works)
-  3. In Vercel, add environment variable: GITHUB_TOKEN = <your GitHub PAT>
-  4. Replace the URL below with: https://YOUR-APP-NAME.vercel.app/?username=Parth0014&...
-
-  This gives you your own private instance with no rate limits.
--->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Parth0014&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -252,33 +215,6 @@ An LLM-powered email assistant that connects to your inbox, **reads & summarizes
 
 ---
 
-## 🐍 Contribution Snake
-
-<!--
-  🐍 SNAKE ANIMATION — Requires a GitHub Action in your profile repo.
-
-  Setup steps:
-  1. Make sure you have a repo named Parth0014/Parth0014 (your profile repo)
-  2. Create .github/workflows/snake.yml in that repo (see the workflow file in this project)
-  3. Go to the repo's Actions tab → "Generate Snake" → "Run workflow" (trigger manually)
-  4. After the first run, the snake SVGs will appear on the 'output' branch
-  5. From then on, it regenerates automatically every day at midnight UTC
-
-  If the snake below doesn't appear, the Action hasn't been set up yet.
--->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth0014/Parth0014/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth0014/Parth0014/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Parth0014/Parth0014/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
@@ -292,6 +228,9 @@ If something here resonates, let's build something awesome together! 👋
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth0014)
+
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" width="100%" />
+
 </div>
