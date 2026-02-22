@@ -96,11 +96,11 @@ let parth = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="55%" valign="top">
 
 ### 🕵️‍♂️ Preempt — SaaS Early Warning System
 
@@ -124,85 +124,41 @@ An AI-powered churn prevention platform that **monitors customer health signals*
 </a>
 
 </td>
-</tr>
-</table>
+<td width="45%" valign="top">
+
+**🧩 Norixis** — Automated data transformation engine converting unstructured data into AI-ready formats.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+&nbsp;<a href="https://github.com/Parth0014/norixis"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
 
 ---
 
-## 🧩 Other Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Norixis
-
-> Automated data transformation engine
-
-Converts **unstructured data into AI-ready structured formats** — built for pipelines that feed ML models and LLM workflows.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<a href="https://github.com/Parth0014/norixis">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🅿️ NextSpot
-
-> Smart Parking Management System
-
-Uses a **YOLO model** for real-time grid and occupancy detection — ML-powered parking intelligence that knows where the free spots are.
+**🅿️ NextSpot** — Smart parking management with YOLO-based real-time grid & occupancy detection.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+&nbsp;<a href="https://github.com/Parth0014/nextspot"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
 
-<a href="https://github.com/Parth0014/nextspot">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
-</a>
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Dexter
-
-> Search Engine from Scratch
-
-A custom-built search engine with **PHP frontend** and **Python scraper** — crawls, indexes, and ranks pages without relying on any third-party search API.
+**🔍 Dexter** — Search engine built from scratch with Python scraping & PHP frontend.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+&nbsp;<a href="https://github.com/Parth0014/dexter"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
 
-<a href="https://github.com/Parth0014/dexter">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
-</a>
+---
 
-</td>
-<td width="50%" valign="top">
-
-### 🔐 EncStore
-
-> Cloud-Based Encrypted Storage
-
-A secure cloud storage platform where files are **encrypted before upload** — privacy-first architecture so even the server can't read your data.
+**🔐 EncStore** — Cloud storage platform with client-side encryption before upload.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-<a href="https://github.com/Parth0014/encstore">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-a78bfa?style=for-the-badge" alt="View Repo" />
-</a>
+&nbsp;<a href="https://github.com/Parth0014/encstore"><img src="https://img.shields.io/badge/repo-a78bfa?style=flat-square" /></a>
 
 </td>
 </tr>
 </table>
-
----
 
 ---
 
