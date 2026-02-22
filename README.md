@@ -2,7 +2,7 @@
 <!--        🎨 PARTH PATIL — GitHub Profile    -->
 <!-- ========================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=Parth%20Patil&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=70&section=header&text=Parth%20Patil&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20CS%20Student&descSize=13&descColor=a78bfa&descAlignY=58" width="100%" />
 
 <div align="center">
   
